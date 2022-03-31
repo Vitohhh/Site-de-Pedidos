@@ -1,0 +1,1 @@
+Olá, esse projeto tem o intuito de ser um site de pedidos.
